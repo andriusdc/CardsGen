@@ -1,0 +1,8 @@
+C:\Users\Andrius\Desktop\Códigos\CardsAPI\obj\Debug\net5.0\Cards VaiVoa.csproj.AssemblyReference.cache
+C:\Users\Andrius\Desktop\Códigos\CardsAPI\obj\Debug\net5.0\Cards VaiVoa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrius\Desktop\Códigos\CardsAPI\obj\Debug\net5.0\Cards VaiVoa.AssemblyInfoInputs.cache
+C:\Users\Andrius\Desktop\Códigos\CardsAPI\obj\Debug\net5.0\Cards VaiVoa.AssemblyInfo.cs
+C:\Users\Andrius\Desktop\Códigos\CardsAPI\obj\Debug\net5.0\Cards VaiVoa.csproj.CoreCompileInputs.cache
+C:\Users\Andrius\Desktop\Códigos\CardsAPI\obj\Debug\net5.0\Cards VaiVoa.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Andrius\Desktop\Códigos\CardsAPI\obj\Debug\net5.0\Cards VaiVoa.RazorAssemblyInfo.cache
+C:\Users\Andrius\Desktop\Códigos\CardsAPI\obj\Debug\net5.0\Cards VaiVoa.RazorAssemblyInfo.cs
